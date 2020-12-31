@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1508767774 source:d:\kuotadata\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1508770026 source:f:\daspro\pdp5\kuotadata\main.c
+	<stdio.h>
+	<stdlib.h>
+
